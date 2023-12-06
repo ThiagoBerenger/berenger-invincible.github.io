@@ -1,2 +1,2 @@
-# invinciblecardgame.github.io
+# invincible.github.io
 Memory Card Game
